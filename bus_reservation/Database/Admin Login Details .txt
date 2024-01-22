@@ -1,0 +1,5 @@
+Admin Login Details 
+-----------------------------------------------------
+Name : Admin1
+email : admin12024@gmail.com
+Password : admin@123
