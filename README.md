@@ -1,6 +1,12 @@
 ## Hello Everyone  👋
 <h3>Online Bus reservation Process</h3>
 
+#### Team Members
+####Shashankan P K
+#### Prasannaa D
+#### Arockia Joshua S
+#### Sivabharathi S
+
 ### Steps to follow the code to run in localhost
 
 1. After you finish downloading the project, unzip the project file and head over to your XAMPP directory.
