@@ -1,0 +1,1 @@
+document.getElementById('datesel').min = new Date().toISOString().split('T')[0];
