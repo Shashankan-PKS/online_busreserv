@@ -22,7 +22,7 @@
         <section>
             <div class="heading">
                 <h1>
-                    Welcome , <span> Shashankan</span>
+                    Welcome , <span> Admin </span>
                 </h1>
             </div>
             <div class="add">
