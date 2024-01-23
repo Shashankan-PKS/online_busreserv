@@ -1,13 +1,15 @@
-<?php
+<?php   
+
+    include '../../config.php';
+
+
     session_start();
-    include "../../config.php";
 
-
-    if(!isset($_SESSION["name"])){
-        header("locaton:../../login/login.php");        
+    if(!isset($_SESSION['name'])){
+        header('location: ../../ad_login/adminlogin.php');
     }
-?>
 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
